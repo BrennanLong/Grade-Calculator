@@ -1,9 +1,10 @@
 /** 
- *GradeCalculator.java
- * @author Brennan Long
- * 
- * This program calculates a student's grades.
+* GradeCalculator.java
+* @author Brennan Long
+* 
+* This program calculates a student's grades.
 */
-PublicClass GradeCalculator {
+
+public class GradeCalculator {
 	
 }
